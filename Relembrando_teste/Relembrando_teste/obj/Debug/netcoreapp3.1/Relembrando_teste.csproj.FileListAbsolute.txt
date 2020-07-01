@@ -1,0 +1,13 @@
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\bin\Debug\netcoreapp3.1\Relembrando_teste.exe
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\bin\Debug\netcoreapp3.1\Relembrando_teste.deps.json
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\bin\Debug\netcoreapp3.1\Relembrando_teste.runtimeconfig.json
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\bin\Debug\netcoreapp3.1\Relembrando_teste.runtimeconfig.dev.json
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\bin\Debug\netcoreapp3.1\Relembrando_teste.dll
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\bin\Debug\netcoreapp3.1\Relembrando_teste.pdb
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.csprojAssemblyReference.cache
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.AssemblyInfoInputs.cache
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.AssemblyInfo.cs
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.csproj.CoreCompileInputs.cache
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.dll
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.pdb
+C:\Users\brcpi001\Documents\Visual Studio 2019\PROJETOS\Relembrando_teste\Relembrando_teste\obj\Debug\netcoreapp3.1\Relembrando_teste.genruntimeconfig.cache
